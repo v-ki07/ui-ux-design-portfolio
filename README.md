@@ -31,7 +31,7 @@ I am an aspiring Product Designer passionate about creating intuitive, accessibl
 
 ---
 
-### 2. Lume & Co – E-commerce Experience
+### 2. Meichin Mines - Mining Company
 **Overview:** A Mining Company's website to tell more about the company and the services they offer
 
 **My Role:** UI/UX Designer.
